@@ -1,6 +1,6 @@
 Hi there! 👋
 
-I'm a Computer Engineer working to make technology more sustainable 🌱⚡️. 
+I'm a Computer Engineer working to make technology more sustainable 🌱⚡️
 
 I’m passionate about understanding how computing systems, from data centers to everyday software, consume energy, and how we can design smarter, more efficient solutions. My work revolves around analyzing and reducing the environmental impact of digital infrastructure and software products.
 
